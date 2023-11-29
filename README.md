@@ -1,1 +1,1 @@
-# phometry
+# photometry processing pipeline
