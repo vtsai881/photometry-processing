@@ -10,7 +10,7 @@ pre-process and plot event-aligned photometry data collected using TDT/Synapse s
 - plot event-aligned normalized dF/F or z-scored data
 
 # table of contents
-- TDT data export protocol
+- [TDT data export protocol](https://github.com/vtsai881/photometry/blob/main/tutorials/TDT_export.md)
 - [format your TDT exported csvs for GuPPy and pMAT](https://github.com/vtsai881/photometry/blob/main/notebooks/photometry_preprocessing_cleaned.ipynb)
-- step-by-step GuPPy user guide
+- [step-by-step GuPPy user guide](https://github.com/vtsai881/photometry/blob/main/tutorials/guppy_guide.md)
 - [plot your processed z-scored data!](https://github.com/vtsai881/photometry/blob/main/notebooks/photometry_data_plotting.ipynb)
