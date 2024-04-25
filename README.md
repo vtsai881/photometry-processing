@@ -13,4 +13,4 @@ pre-process and plot event-aligned photometry data collected using TDT/Synapse s
 - TDT data export protocol
 - [format your TDT exported csvs for GuPPy and pMAT](https://github.com/vtsai881/photometry/blob/main/notebooks/photometry_preprocessing_cleaned.ipynb)
 - step-by-step GuPPy user guide
-- plot your processed z-scored data!
+- [plot your processed z-scored data!](https://github.com/vtsai881/photometry/blob/main/notebooks/photometry_data_plotting.ipynb)
