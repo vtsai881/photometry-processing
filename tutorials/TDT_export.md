@@ -7,19 +7,13 @@ Valerie's method for exporting photometry data collected in synapse to csvs.
 3. Exporting
 
 # 1. Folder structure
-Overarching folder structure should be as follows:
+### Overarching folder structure: `DAY/EXPERIMENT -> ANIMAL ID -> [405.csv, 470.csv, TTL.csv]`
+<img src="https://github.com/vtsai881/photometry-processing/assets/87097162/38eae1de-aa84-4f91-8bfe-d798778e7a4c" width="45%"></img> <img src="https://github.com/vtsai881/photometry-processing/assets/87097162/70fc5347-253a-4dda-af28-0e06a66ffaf7" width="45%"></img> 
 
-	COHORT:
-•	DAY/EXPERIMENT PHASE
-o	ANIMAL ID
-	405.csv 
-	470.csv
-	TTL.csv
-
-o	Bravo has found that it’s faster to create folders for each animal in the big export folder and move them once exported to a subfolder for each day [SCREENCAP THIS TOO]
 
 # 2. Export template
-	Files to export are organized in the following manner: [SCREENCAP HERE]
+### Load `Photometry Exporting Template.obm`
+<img src="https://github.com/vtsai881/photometry-processing/assets/87097162/810ee75c-de9a-40cc-84d3-8d2fa0357468" width="90%"></img> 
 
 Type: 405, 470, TTL (THESE ARE ALL CURRENTLY SET FOR SYSTEM 1/A)
 
